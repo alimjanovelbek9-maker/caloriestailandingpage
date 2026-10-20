@@ -730,8 +730,8 @@ export default function App() {
   // REQUIREMENT: Theme defaults to WHITE (Light mode) on first visit
   const [darkMode, setDarkMode] = useState<boolean>(false);
   
-  // Language state (Default: Uzbek)
-  const [lang, setLang] = useState<Language>('uz');
+  // Language state (Default: Russian)
+  const [lang, setLang] = useState<Language>('ru');
   const [langDropdownOpen, setLangDropdownOpen] = useState<boolean>(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState<boolean>(false);
 
