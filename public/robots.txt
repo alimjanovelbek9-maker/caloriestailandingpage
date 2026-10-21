@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://caloriestailandingpage.vercel.app/sitemap.xml
